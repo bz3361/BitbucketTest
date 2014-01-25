@@ -1,2 +1,7 @@
 test - initial create
+<<<<<<< HEAD
 added in feature1 branch
+=======
+
+added in github
+>>>>>>> 992246e348028afbed6224df31afd19441554402
